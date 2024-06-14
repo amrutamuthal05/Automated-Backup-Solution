@@ -1,0 +1,17 @@
+2024-06-14 15:00:00 - Starting backup process...
+sending incremental file list
+./
+file1.txt
+file2.txt
+
+sent 300 bytes  received 150 bytes  900.00 bytes/sec
+total size is 200  speedup is 0.50
+
+2024-06-14 15:00:10 - Backup completed successfully.
+2024-06-14 15:00:10 - Backup process completed.
+
+Backup report:
+--------------
+2024-06-14 15:00:00 - Starting backup process...
+2024-06-14 15:00:10 - Backup completed successfully.
+2024-06-14 15:00:10 - Backup process completed.
